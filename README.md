@@ -1,8 +1,6 @@
 # PowerQuery-PowerPivot-DAX 01
 
-<b>Dashboard with Multiple Sale Matrics;</b>
-
-Content includes;
+Prepared a dashboard with multiple sales matrics with contents including;
 
 •	Average Daily Sales by Region and Sales Rep. - Pivot Table
 
@@ -16,7 +14,7 @@ Content includes;
 
 •	Two Slicers for Years and Category
 
-<b>Preparation Process</b>
+## <b>Preparation Process</b>
 
 <b>Power Query File Upload:</b> Imported and transformed 4 CSV files in power query then loaded query into excel data model.
 
